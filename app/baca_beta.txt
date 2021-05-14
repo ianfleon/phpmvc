@@ -1,0 +1,3 @@
+File ".htaccess"
+----------------
+Option -Indexes     // menyembunyikan atau membatasi akses ke suatu folder selama tidak ada file index (html/php)
